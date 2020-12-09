@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/navbot_item_blur"
+        android:icon="@drawable/ic_baseline_blur_circular_24"
+        android:title="BLur"></item>
+
+    <item
+        android:id="@+id/navbot_item_details"
+        android:icon="@drawable/ic_baseline_details_24"
+        android:title="Detail"></item>
+
+    <item
+        android:id="@+id/navbot_item_color"
+        android:icon="@drawable/ic_baseline_color_lens_24"
+        android:title="Color"></item>
+
+
+</menu>
